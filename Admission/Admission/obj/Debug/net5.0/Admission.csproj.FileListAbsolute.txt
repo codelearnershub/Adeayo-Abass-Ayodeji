@@ -1,0 +1,16 @@
+C:\Users\Dejik Concepts\Desktop\Admission\Admission\Admission\obj\Debug\net5.0\Admission.csproj.AssemblyReference.cache
+C:\Users\Dejik Concepts\Desktop\Admission\Admission\Admission\obj\Debug\net5.0\Admission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dejik Concepts\Desktop\Admission\Admission\Admission\obj\Debug\net5.0\Admission.AssemblyInfoInputs.cache
+C:\Users\Dejik Concepts\Desktop\Admission\Admission\Admission\obj\Debug\net5.0\Admission.AssemblyInfo.cs
+C:\Users\Dejik Concepts\Desktop\Admission\Admission\Admission\obj\Debug\net5.0\Admission.csproj.CoreCompileInputs.cache
+C:\Users\Dejik Concepts\Desktop\Admission\Admission\Admission\bin\Debug\net5.0\Admission.exe
+C:\Users\Dejik Concepts\Desktop\Admission\Admission\Admission\bin\Debug\net5.0\Admission.deps.json
+C:\Users\Dejik Concepts\Desktop\Admission\Admission\Admission\bin\Debug\net5.0\Admission.runtimeconfig.json
+C:\Users\Dejik Concepts\Desktop\Admission\Admission\Admission\bin\Debug\net5.0\Admission.runtimeconfig.dev.json
+C:\Users\Dejik Concepts\Desktop\Admission\Admission\Admission\bin\Debug\net5.0\Admission.dll
+C:\Users\Dejik Concepts\Desktop\Admission\Admission\Admission\bin\Debug\net5.0\ref\Admission.dll
+C:\Users\Dejik Concepts\Desktop\Admission\Admission\Admission\bin\Debug\net5.0\Admission.pdb
+C:\Users\Dejik Concepts\Desktop\Admission\Admission\Admission\obj\Debug\net5.0\Admission.dll
+C:\Users\Dejik Concepts\Desktop\Admission\Admission\Admission\obj\Debug\net5.0\ref\Admission.dll
+C:\Users\Dejik Concepts\Desktop\Admission\Admission\Admission\obj\Debug\net5.0\Admission.pdb
+C:\Users\Dejik Concepts\Desktop\Admission\Admission\Admission\obj\Debug\net5.0\Admission.genruntimeconfig.cache
