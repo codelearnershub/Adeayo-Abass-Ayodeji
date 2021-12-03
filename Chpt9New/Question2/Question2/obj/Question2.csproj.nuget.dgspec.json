@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dejik Concepts\\Desktop\\Ass- Chpt9\\Question2\\Question2\\Question2.csproj": {}
+    "C:\\Users\\Dejik Concepts\\Desktop\\ABS Adebayo\\Adeayo-Abass-Ayodeji\\Chpt9New\\Question2\\Question2\\Question2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dejik Concepts\\Desktop\\Ass- Chpt9\\Question2\\Question2\\Question2.csproj": {
+    "C:\\Users\\Dejik Concepts\\Desktop\\ABS Adebayo\\Adeayo-Abass-Ayodeji\\Chpt9New\\Question2\\Question2\\Question2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dejik Concepts\\Desktop\\Ass- Chpt9\\Question2\\Question2\\Question2.csproj",
+        "projectUniqueName": "C:\\Users\\Dejik Concepts\\Desktop\\ABS Adebayo\\Adeayo-Abass-Ayodeji\\Chpt9New\\Question2\\Question2\\Question2.csproj",
         "projectName": "Question2",
-        "projectPath": "C:\\Users\\Dejik Concepts\\Desktop\\Ass- Chpt9\\Question2\\Question2\\Question2.csproj",
+        "projectPath": "C:\\Users\\Dejik Concepts\\Desktop\\ABS Adebayo\\Adeayo-Abass-Ayodeji\\Chpt9New\\Question2\\Question2\\Question2.csproj",
         "packagesPath": "C:\\Users\\Dejik Concepts\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dejik Concepts\\Desktop\\Ass- Chpt9\\Question2\\Question2\\obj\\",
+        "outputPath": "C:\\Users\\Dejik Concepts\\Desktop\\ABS Adebayo\\Adeayo-Abass-Ayodeji\\Chpt9New\\Question2\\Question2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dejik Concepts\\AppData\\Roaming\\NuGet\\NuGet.Config"

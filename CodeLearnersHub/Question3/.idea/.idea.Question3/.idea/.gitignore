@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/modules.xml
+/contentModel.xml
+/.idea.Question3.iml
+# Datasource local storage ignored files
+/../../../../../../../../../:\Users\Dejik Concepts\Desktop\CodeLearnersHub\Question3\.idea\.idea.Question3\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
