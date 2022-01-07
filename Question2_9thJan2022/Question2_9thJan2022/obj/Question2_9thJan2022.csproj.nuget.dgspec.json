@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dejik Concepts\\Desktop\\ABS Adebayo\\Adeayo-Abass-Ayodeji\\CodeChallenge24thDec21\\Question2\\Question2_LongestPalindromicSubstring\\Question2_LongestPalindromicSubstring.csproj": {}
+    "C:\\Users\\Dejik Concepts\\Desktop\\Test\\My Project- BMS\\Question2_9thJan2022\\Question2_9thJan2022\\Question2_9thJan2022.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dejik Concepts\\Desktop\\ABS Adebayo\\Adeayo-Abass-Ayodeji\\CodeChallenge24thDec21\\Question2\\Question2_LongestPalindromicSubstring\\Question2_LongestPalindromicSubstring.csproj": {
+    "C:\\Users\\Dejik Concepts\\Desktop\\Test\\My Project- BMS\\Question2_9thJan2022\\Question2_9thJan2022\\Question2_9thJan2022.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dejik Concepts\\Desktop\\ABS Adebayo\\Adeayo-Abass-Ayodeji\\CodeChallenge24thDec21\\Question2\\Question2_LongestPalindromicSubstring\\Question2_LongestPalindromicSubstring.csproj",
-        "projectName": "Question2_LongestPalindromicSubstring",
-        "projectPath": "C:\\Users\\Dejik Concepts\\Desktop\\ABS Adebayo\\Adeayo-Abass-Ayodeji\\CodeChallenge24thDec21\\Question2\\Question2_LongestPalindromicSubstring\\Question2_LongestPalindromicSubstring.csproj",
+        "projectUniqueName": "C:\\Users\\Dejik Concepts\\Desktop\\Test\\My Project- BMS\\Question2_9thJan2022\\Question2_9thJan2022\\Question2_9thJan2022.csproj",
+        "projectName": "Question2_9thJan2022",
+        "projectPath": "C:\\Users\\Dejik Concepts\\Desktop\\Test\\My Project- BMS\\Question2_9thJan2022\\Question2_9thJan2022\\Question2_9thJan2022.csproj",
         "packagesPath": "C:\\Users\\Dejik Concepts\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dejik Concepts\\Desktop\\ABS Adebayo\\Adeayo-Abass-Ayodeji\\CodeChallenge24thDec21\\Question2\\Question2_LongestPalindromicSubstring\\obj\\",
+        "outputPath": "C:\\Users\\Dejik Concepts\\Desktop\\Test\\My Project- BMS\\Question2_9thJan2022\\Question2_9thJan2022\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dejik Concepts\\AppData\\Roaming\\NuGet\\NuGet.Config"
