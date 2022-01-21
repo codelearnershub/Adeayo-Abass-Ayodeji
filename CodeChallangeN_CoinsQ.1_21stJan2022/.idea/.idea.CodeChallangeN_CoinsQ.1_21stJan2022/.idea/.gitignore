@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/projectSettingsUpdater.xml
+/contentModel.xml
+/.idea.CodeChallangeN_CoinsQ.1_21stJan2022.iml
+# Datasource local storage ignored files
+/../../../../../../../../../../:\Users\Dejik Concepts\Desktop\Test\QUIZ\CodeChallangeN_CoinsQ.1_21stJan2022\.idea\.idea.CodeChallangeN_CoinsQ.1_21stJan2022\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

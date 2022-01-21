@@ -1,0 +1,16 @@
+C:\Users\Dejik Concepts\Desktop\Test\QUIZ\CodeChallangeN_CoinsQ.1_21stJan2022\CodeChallangeN_CoinsQ.1_21stJan2022\bin\Debug\net5.0\CodeChallangeN_CoinsQ.1_21stJan2022.exe
+C:\Users\Dejik Concepts\Desktop\Test\QUIZ\CodeChallangeN_CoinsQ.1_21stJan2022\CodeChallangeN_CoinsQ.1_21stJan2022\bin\Debug\net5.0\CodeChallangeN_CoinsQ.1_21stJan2022.deps.json
+C:\Users\Dejik Concepts\Desktop\Test\QUIZ\CodeChallangeN_CoinsQ.1_21stJan2022\CodeChallangeN_CoinsQ.1_21stJan2022\bin\Debug\net5.0\CodeChallangeN_CoinsQ.1_21stJan2022.runtimeconfig.json
+C:\Users\Dejik Concepts\Desktop\Test\QUIZ\CodeChallangeN_CoinsQ.1_21stJan2022\CodeChallangeN_CoinsQ.1_21stJan2022\bin\Debug\net5.0\CodeChallangeN_CoinsQ.1_21stJan2022.runtimeconfig.dev.json
+C:\Users\Dejik Concepts\Desktop\Test\QUIZ\CodeChallangeN_CoinsQ.1_21stJan2022\CodeChallangeN_CoinsQ.1_21stJan2022\bin\Debug\net5.0\CodeChallangeN_CoinsQ.1_21stJan2022.dll
+C:\Users\Dejik Concepts\Desktop\Test\QUIZ\CodeChallangeN_CoinsQ.1_21stJan2022\CodeChallangeN_CoinsQ.1_21stJan2022\bin\Debug\net5.0\ref\CodeChallangeN_CoinsQ.1_21stJan2022.dll
+C:\Users\Dejik Concepts\Desktop\Test\QUIZ\CodeChallangeN_CoinsQ.1_21stJan2022\CodeChallangeN_CoinsQ.1_21stJan2022\bin\Debug\net5.0\CodeChallangeN_CoinsQ.1_21stJan2022.pdb
+C:\Users\Dejik Concepts\Desktop\Test\QUIZ\CodeChallangeN_CoinsQ.1_21stJan2022\CodeChallangeN_CoinsQ.1_21stJan2022\obj\Debug\net5.0\CodeChallangeN_CoinsQ.1_21stJan2022.csproj.AssemblyReference.cache
+C:\Users\Dejik Concepts\Desktop\Test\QUIZ\CodeChallangeN_CoinsQ.1_21stJan2022\CodeChallangeN_CoinsQ.1_21stJan2022\obj\Debug\net5.0\CodeChallangeN_CoinsQ.1_21stJan2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dejik Concepts\Desktop\Test\QUIZ\CodeChallangeN_CoinsQ.1_21stJan2022\CodeChallangeN_CoinsQ.1_21stJan2022\obj\Debug\net5.0\CodeChallangeN_CoinsQ.1_21stJan2022.AssemblyInfoInputs.cache
+C:\Users\Dejik Concepts\Desktop\Test\QUIZ\CodeChallangeN_CoinsQ.1_21stJan2022\CodeChallangeN_CoinsQ.1_21stJan2022\obj\Debug\net5.0\CodeChallangeN_CoinsQ.1_21stJan2022.AssemblyInfo.cs
+C:\Users\Dejik Concepts\Desktop\Test\QUIZ\CodeChallangeN_CoinsQ.1_21stJan2022\CodeChallangeN_CoinsQ.1_21stJan2022\obj\Debug\net5.0\CodeChallangeN_CoinsQ.1_21stJan2022.csproj.CoreCompileInputs.cache
+C:\Users\Dejik Concepts\Desktop\Test\QUIZ\CodeChallangeN_CoinsQ.1_21stJan2022\CodeChallangeN_CoinsQ.1_21stJan2022\obj\Debug\net5.0\CodeChallangeN_CoinsQ.1_21stJan2022.dll
+C:\Users\Dejik Concepts\Desktop\Test\QUIZ\CodeChallangeN_CoinsQ.1_21stJan2022\CodeChallangeN_CoinsQ.1_21stJan2022\obj\Debug\net5.0\ref\CodeChallangeN_CoinsQ.1_21stJan2022.dll
+C:\Users\Dejik Concepts\Desktop\Test\QUIZ\CodeChallangeN_CoinsQ.1_21stJan2022\CodeChallangeN_CoinsQ.1_21stJan2022\obj\Debug\net5.0\CodeChallangeN_CoinsQ.1_21stJan2022.pdb
+C:\Users\Dejik Concepts\Desktop\Test\QUIZ\CodeChallangeN_CoinsQ.1_21stJan2022\CodeChallangeN_CoinsQ.1_21stJan2022\obj\Debug\net5.0\CodeChallangeN_CoinsQ.1_21stJan2022.genruntimeconfig.cache

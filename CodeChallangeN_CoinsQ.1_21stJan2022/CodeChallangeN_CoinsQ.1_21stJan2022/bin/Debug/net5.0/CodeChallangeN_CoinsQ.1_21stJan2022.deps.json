@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CodeChallangeN_CoinsQ.1_21stJan2022/1.0.0": {
+        "runtime": {
+          "CodeChallangeN_CoinsQ.1_21stJan2022.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CodeChallangeN_CoinsQ.1_21stJan2022/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
