@@ -20,7 +20,7 @@ namespace Question11
                 Console.Write(deci);
             }
 
-           
+            
 
            
 
